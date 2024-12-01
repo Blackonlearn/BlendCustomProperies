@@ -1,5 +1,6 @@
 import bpy
 
+#This simple code is mine, and it has already been pushed to github repo as my archive: https://github.com/Blackonlearn/BlendCustomProperties/blob/main/Script-Rig-CustomProperties.py
 
 class LayoutDemoPanel(bpy.types.Panel):
     """Creates a Panel in the scene context of the properties editor"""
